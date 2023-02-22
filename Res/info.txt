@@ -1,0 +1,13 @@
+
+=============================================
+Basic Input:
+Press W\A\S\D to move.
+Press Space to jump.
+Press F1 for third person view.
+Press F2 for first person view.
+Move your mouse to rotate camera.
+
+You can left click to break blocks and right click to place blocks.
+This application may fail to relocate your cursor, please enable it in your system privacy settings.
+
+============Press enter to begin ============

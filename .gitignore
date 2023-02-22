@@ -1,0 +1,27 @@
+#Visual Studio
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.filters
+*.users
+*.user
+*.dll
+.vs 
+
+# Visual Studio Code
+.vscode/
+
+
+# Builds
+bin/
+Makefil
+
+#Xcode
+*.build
+*.xcodeproj
+build/
+cmake_modules/
+CMakeScripts/
+CMakeFiles/
+CMakeCache.txt
